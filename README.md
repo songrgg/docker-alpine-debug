@@ -1,5 +1,8 @@
 # Debug online application in alpine docker 
 
+![Docker Stars](https://img.shields.io/docker/stars/songrgg/alpine-debug.svg)
+![Docker Pulls](https://img.shields.io/docker/pulls/songrgg/alpine-debug.svg)
+
 It's a docker image based on alpine with debug tools like tcpdump, strace, iftop, curl.
 
 # Instructions
